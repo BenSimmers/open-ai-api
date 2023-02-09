@@ -29,7 +29,7 @@ npm start
 ## Environment Variables
 
 ```bash
-API_KEY=your_api_key
+APIKEY=your_api_key
 ```
 
 ## Endpoints
